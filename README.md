@@ -1,4 +1,4 @@
-# AspNetCoreIdenty - Modelo Básico para habilitar Autenticação
+# AspNetCoreIdentity - Modelo Básico para habilitar Autenticação
 
 Pacotes: 
 Microsoft.AspNetCore.Identity.EntityFrameworkCore
