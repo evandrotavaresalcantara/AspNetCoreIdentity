@@ -1,7 +1,6 @@
 ﻿using AspNetCoreIdentity.Mvc.Habilitar.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using AspNetCoreIdentity.Mvc.Habilitar.ViewModel;
 
 namespace AspNetCoreIdentity.Mvc.Habilitar.Data
 {
